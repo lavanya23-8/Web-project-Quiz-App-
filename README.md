@@ -24,7 +24,7 @@ The Web Project Quiz App is designed to provide an engaging learning experience 
 - JavaScript (ES6)
 - JSON
 
-## 📂 Project Structure
+## 📂 Project Structure.
 
 ```text
 Web-project-Quiz-App-
