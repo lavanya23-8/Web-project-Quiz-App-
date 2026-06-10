@@ -1,4 +1,4 @@
-# 🧠 Web Project Quiz App
+# 🧠 Web Project Quiz App.
 
 A simple and interactive Quiz Application developed using HTML, CSS, and JavaScript. The application allows users to test their knowledge through multiple-choice questions and receive instant feedback and scores.
 
