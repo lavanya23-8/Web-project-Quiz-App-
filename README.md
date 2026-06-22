@@ -87,7 +87,7 @@ git clone https://github.com/lavanya23-8/Web-project-Quiz-App-.git
 - Language learning quizzes
 - Online assessment systems
 
-## 📈 Future Enhancements
+## 📈 Future Enhancements.
 
 - Timer for each question
 - User login system
