@@ -89,7 +89,7 @@ git clone https://github.com/lavanya23-8/Web-project-Quiz-App-.git
 
 ## 📈 Future Enhancements.
 
-- Timer for each question
+- Timer for each question.
 - User login system
 - Leaderboard
 - Question categories
